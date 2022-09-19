@@ -4,7 +4,7 @@
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning how to <b>code</b>.
 - 🌎 I'm currently living in Brazil, at Campina Grande-Pb city.
-- 👨‍🎓 I Graduated Mechanical engineer by UFCG.
+
 
 <h3>Here you can find me: </h3>
 
