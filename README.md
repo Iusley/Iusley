@@ -1,9 +1,6 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-   
+
 ### Seja Bem Vindo(a) ao perfil de Iusley Lacerda:👋
-<br>
-
-
 <div align="center">
   <a href="https://github.com/Iusley">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=iusley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -18,7 +15,6 @@
  
 <br>
 <br>
-<br> 
 
 <div> 
  <p align="center"><a href="https://www.linkedin.com/in/iusley-lacerda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
