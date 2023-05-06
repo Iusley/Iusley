@@ -26,11 +26,6 @@
     <a href = "mailto:iusley.sl@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  
-  <div align="center">
-<br><p align="centre"><b>Visitantes:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EduardaCoffacci}/count.svg" /></p> 
-<br>
-</div>
+   
   
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
