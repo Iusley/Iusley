@@ -1,6 +1,7 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-### Seja Bem Vindo(a) ao perfil de Iusley Lacerda:👋
+## Seja Bem Vindo(a) ao perfil de Iusley Lacerda:
+
 <div align="center">
   <a href="https://github.com/Iusley">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=iusley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
