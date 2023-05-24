@@ -1,6 +1,6 @@
 
 
-## Seja Bem Vindo(a) ao meu perfil:
+## Seja bem vindo(a):
 
 <div align="center">
   <a href="https://github.com/Iusley">
