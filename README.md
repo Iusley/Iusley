@@ -1,4 +1,4 @@
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
 
 ## Seja Bem Vindo(a) ao meu perfil:
 
@@ -23,4 +23,4 @@
     <a href = "mailto:iusley.sl@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+
