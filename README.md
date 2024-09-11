@@ -18,8 +18,5 @@
     <a href = "mailto:iusley.sl@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://camo.githubusercontent.com/0dcb68a35d93a2836dc46a59c76ddc4684799b035f2eabe8ed0206ff6672d402/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66656c6970656d6f7461726f6368612673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Iusley Lacerda's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iusley&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;">
-
-
 <br>
 
